@@ -34,7 +34,7 @@ Zaragoza, España
 
 ## 🔗 Conecta conmigo
 
-- LinkedIn: https://www.linkedin.com/in/TU-USUARIO
+- LinkedIn: www.linkedin.com/in/luis-miguel-bernal-romero-24192a264
 
 ---
 
