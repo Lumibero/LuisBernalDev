@@ -10,7 +10,7 @@ Actualmente estoy estudiando programación a través de FreeCodeCamp y construye
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6+)
 - Git
 - GitHub
 - Responsive Web Design
